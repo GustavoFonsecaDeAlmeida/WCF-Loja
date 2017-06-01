@@ -1,0 +1,10 @@
+D:\TP3Azure\WCF-Solution\Loja.Domain\bin\Debug\Loja.Domain.dll.config
+D:\TP3Azure\WCF-Solution\Loja.Domain\bin\Debug\Loja.Domain.dll
+D:\TP3Azure\WCF-Solution\Loja.Domain\bin\Debug\Loja.Domain.pdb
+D:\TP3Azure\WCF-Solution\Loja.Domain\bin\Debug\EntityFramework.dll
+D:\TP3Azure\WCF-Solution\Loja.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\TP3Azure\WCF-Solution\Loja.Domain\bin\Debug\EntityFramework.xml
+D:\TP3Azure\WCF-Solution\Loja.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\TP3Azure\WCF-Solution\Loja.Domain\obj\Debug\Loja.Domain.csprojResolveAssemblyReference.cache
+D:\TP3Azure\WCF-Solution\Loja.Domain\obj\Debug\Loja.Domain.dll
+D:\TP3Azure\WCF-Solution\Loja.Domain\obj\Debug\Loja.Domain.pdb

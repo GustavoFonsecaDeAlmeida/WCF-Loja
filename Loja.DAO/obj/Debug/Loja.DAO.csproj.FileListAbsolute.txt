@@ -1,0 +1,17 @@
+D:\TP3Azure\WCF-Solution\Loja.DAO\bin\Debug\DataBase\Database1.mdf
+D:\TP3Azure\WCF-Solution\Loja.DAO\bin\Debug\DataBase\Database1_log.ldf
+D:\TP3Azure\WCF-Solution\Loja.DAO\bin\Debug\Loja.DAO.dll.config
+D:\TP3Azure\WCF-Solution\Loja.DAO\bin\Debug\Loja.DAO.dll
+D:\TP3Azure\WCF-Solution\Loja.DAO\bin\Debug\Loja.DAO.pdb
+D:\TP3Azure\WCF-Solution\Loja.DAO\bin\Debug\EntityFramework.dll
+D:\TP3Azure\WCF-Solution\Loja.DAO\bin\Debug\EntityFramework.SqlServer.dll
+D:\TP3Azure\WCF-Solution\Loja.DAO\bin\Debug\Loja.Domain.dll
+D:\TP3Azure\WCF-Solution\Loja.DAO\bin\Debug\Loja.Domain.pdb
+D:\TP3Azure\WCF-Solution\Loja.DAO\bin\Debug\Loja.Domain.dll.config
+D:\TP3Azure\WCF-Solution\Loja.DAO\bin\Debug\EntityFramework.xml
+D:\TP3Azure\WCF-Solution\Loja.DAO\bin\Debug\EntityFramework.SqlServer.xml
+D:\TP3Azure\WCF-Solution\Loja.DAO\obj\Debug\Loja.DAO.csprojResolveAssemblyReference.cache
+D:\TP3Azure\WCF-Solution\Loja.DAO\obj\Debug\Loja.DAO.dll
+D:\TP3Azure\WCF-Solution\Loja.DAO\obj\Debug\Loja.DAO.pdb
+D:\TP3Azure\WCF-Solution\Loja.DAO\bin\Debug\DataBase\Database2.mdf
+D:\TP3Azure\WCF-Solution\Loja.DAO\bin\Debug\DataBase\Database2_log.ldf

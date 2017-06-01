@@ -1,0 +1,5 @@
+D:\TP3Azure\WCF-Solution\ConsumirWCF3\bin\Debug\ConsumirWCF3.exe.config
+D:\TP3Azure\WCF-Solution\ConsumirWCF3\bin\Debug\ConsumirWCF3.exe
+D:\TP3Azure\WCF-Solution\ConsumirWCF3\bin\Debug\ConsumirWCF3.pdb
+D:\TP3Azure\WCF-Solution\ConsumirWCF3\obj\Debug\ConsumirWCF3.exe
+D:\TP3Azure\WCF-Solution\ConsumirWCF3\obj\Debug\ConsumirWCF3.pdb
