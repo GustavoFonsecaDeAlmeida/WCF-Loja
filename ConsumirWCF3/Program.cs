@@ -18,6 +18,8 @@ namespace ConsumirWCF3
 
             Console.ReadKey();
 
+            
+
         }
     }
 }

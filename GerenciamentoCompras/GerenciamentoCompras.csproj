@@ -97,6 +97,10 @@
       <Project>{034BC0EF-082D-4911-9E66-2B3AE78B61DC}</Project>
       <Name>Loja.DAO</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Loja.Domain\Loja.Domain.csproj">
+      <Project>{0A616B52-D02A-4D22-B4A3-5D5B17B6B6FC}</Project>
+      <Name>Loja.Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

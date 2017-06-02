@@ -18,3 +18,21 @@ D:\TP3Azure\WCF-Solution\GerenciamentoCompras\bin\Loja.Domain.pdb
 D:\TP3Azure\WCF-Solution\GerenciamentoCompras\bin\Loja.Domain.dll.config
 D:\TP3Azure\WCF-Solution\GerenciamentoCompras\bin\DataBase\Database2.mdf
 D:\TP3Azure\WCF-Solution\GerenciamentoCompras\bin\DataBase\Database2_log.ldf
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\GerenciamentoCompras\bin\DataBase\Database1.mdf
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\GerenciamentoCompras\bin\DataBase\Database1_log.ldf
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\GerenciamentoCompras\bin\GerenciamentoCompras.dll.config
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\GerenciamentoCompras\bin\GerenciamentoCompras.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\GerenciamentoCompras\bin\GerenciamentoCompras.pdb
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\GerenciamentoCompras\bin\EntityFramework.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\GerenciamentoCompras\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\GerenciamentoCompras\bin\Loja.DAO.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\GerenciamentoCompras\bin\Loja.Domain.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\GerenciamentoCompras\bin\Loja.DAO.pdb
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\GerenciamentoCompras\bin\Loja.DAO.dll.config
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\GerenciamentoCompras\bin\Loja.Domain.pdb
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\GerenciamentoCompras\bin\Loja.Domain.dll.config
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\GerenciamentoCompras\bin\EntityFramework.xml
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\GerenciamentoCompras\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\GerenciamentoCompras\obj\Debug\GerenciamentoCompras.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\GerenciamentoCompras\obj\Debug\GerenciamentoCompras.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\GerenciamentoCompras\obj\Debug\GerenciamentoCompras.pdb

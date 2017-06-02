@@ -1,4 +1,6 @@
-﻿using System;
+﻿using GerenciamentoCompras.Model;
+using Loja.Domain;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.Serialization;
@@ -19,6 +21,6 @@ namespace GerenciamentoCompras
     public interface IPedido_V2
     {
         [OperationContract]
-        string RealizarPedido(List<string> item);
+        string RealizarPedido(List<ProdutoViewModel> Produtos);
     }
 }

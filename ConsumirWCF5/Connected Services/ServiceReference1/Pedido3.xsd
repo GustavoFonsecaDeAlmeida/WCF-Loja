@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/GerenciamentoCompras.Model" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/GerenciamentoCompras.Model" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfProdutoViewModel">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ProdutoViewModel" nillable="true" type="tns:ProdutoViewModel" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfProdutoViewModel" nillable="true" type="tns:ArrayOfProdutoViewModel" />
+  <xs:complexType name="ProdutoViewModel">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="NomeProduto" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Quantidade" type="xs:int" />
+      <xs:element minOccurs="0" name="idProduto" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ProdutoViewModel" nillable="true" type="tns:ProdutoViewModel" />
+</xs:schema>

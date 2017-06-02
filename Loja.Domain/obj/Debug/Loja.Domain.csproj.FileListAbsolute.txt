@@ -8,3 +8,12 @@ D:\TP3Azure\WCF-Solution\Loja.Domain\bin\Debug\EntityFramework.SqlServer.xml
 D:\TP3Azure\WCF-Solution\Loja.Domain\obj\Debug\Loja.Domain.csprojResolveAssemblyReference.cache
 D:\TP3Azure\WCF-Solution\Loja.Domain\obj\Debug\Loja.Domain.dll
 D:\TP3Azure\WCF-Solution\Loja.Domain\obj\Debug\Loja.Domain.pdb
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.Domain\bin\Debug\Loja.Domain.dll.config
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.Domain\bin\Debug\Loja.Domain.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.Domain\bin\Debug\Loja.Domain.pdb
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.Domain\obj\Debug\Loja.Domain.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.Domain\obj\Debug\Loja.Domain.pdb

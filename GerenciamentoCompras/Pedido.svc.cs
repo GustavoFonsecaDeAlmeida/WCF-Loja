@@ -1,4 +1,6 @@
-﻿using Loja.DAO;
+﻿using GerenciamentoCompras.Model;
+using Loja.DAO;
+using Loja.Domain;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,8 +32,34 @@ namespace GerenciamentoCompras
 
         }
 
-        public string RealizarPedido(List<string> item)
+        public string RealizarPedido(List<ProdutoViewModel> Produtos)
         {
+            //for(int i = 0; i < Produtos.Count; i++)
+            //{
+
+            //    var resposta = dao.VenderProduto(Produtos[i].idProduto, 1);
+
+
+
+            //    i++;
+            //    if (resposta.ToString() == "True")
+            //    {
+
+            //        return "Produto Vendido com sucesso, seu pedido foi encaminhado para os empacotadores";
+            //    }
+            //    else
+            //    {
+            //        return "OPS.. Ocorreu algum erro.";
+            //    }
+
+            //}
+
+            foreach (var item in Produtos)
+            {
+                dao.VenderProduto(item.idProduto,1);
+
+
+            }
 
 
 

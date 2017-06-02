@@ -1,0 +1,9 @@
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\ConsumirWCF5\obj\Debug\ConsumirWCF5.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\ConsumirWCF5\bin\Debug\ConsumirWCF5.exe.config
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\ConsumirWCF5\bin\Debug\ConsumirWCF5.exe
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\ConsumirWCF5\bin\Debug\ConsumirWCF5.pdb
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\ConsumirWCF5\bin\Debug\Loja.Domain.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\ConsumirWCF5\bin\Debug\Loja.Domain.pdb
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\ConsumirWCF5\bin\Debug\Loja.Domain.dll.config
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\ConsumirWCF5\obj\Debug\ConsumirWCF5.exe
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\ConsumirWCF5\obj\Debug\ConsumirWCF5.pdb

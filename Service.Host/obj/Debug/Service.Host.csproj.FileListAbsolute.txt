@@ -17,3 +17,22 @@ D:\TP3Azure\WCF-Solution\Service.Host\bin\Debug\Loja.DAO.dll.config
 D:\TP3Azure\WCF-Solution\Service.Host\bin\Debug\EntityFramework.xml
 D:\TP3Azure\WCF-Solution\Service.Host\bin\Debug\Loja.Domain.pdb
 D:\TP3Azure\WCF-Solution\Service.Host\bin\Debug\Loja.Domain.dll.config
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Service.Host\bin\Debug\Service.Host.exe.config
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Service.Host\bin\Debug\Service.Host.exe
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Service.Host\bin\Debug\Service.Host.pdb
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Service.Host\bin\Debug\GerenciamentoCompras.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Service.Host\bin\Debug\Loja.Domain.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Service.Host\bin\Debug\Loja.DAO.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Service.Host\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Service.Host\bin\Debug\GerenciamentoCompras.pdb
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Service.Host\bin\Debug\GerenciamentoCompras.dll.config
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Service.Host\bin\Debug\Loja.Domain.pdb
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Service.Host\bin\Debug\Loja.Domain.dll.config
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Service.Host\bin\Debug\Loja.DAO.pdb
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Service.Host\bin\Debug\Loja.DAO.dll.config
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Service.Host\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Service.Host\obj\Debug\Service.Host.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Service.Host\obj\Debug\Service.Host.exe
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Service.Host\obj\Debug\Service.Host.pdb
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Service.Host\bin\Debug\DataBase\Database1.mdf
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Service.Host\bin\Debug\DataBase\Database1_log.ldf

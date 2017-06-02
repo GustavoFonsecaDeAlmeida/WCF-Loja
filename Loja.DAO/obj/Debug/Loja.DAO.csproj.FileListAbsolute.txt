@@ -15,3 +15,18 @@ D:\TP3Azure\WCF-Solution\Loja.DAO\obj\Debug\Loja.DAO.dll
 D:\TP3Azure\WCF-Solution\Loja.DAO\obj\Debug\Loja.DAO.pdb
 D:\TP3Azure\WCF-Solution\Loja.DAO\bin\Debug\DataBase\Database2.mdf
 D:\TP3Azure\WCF-Solution\Loja.DAO\bin\Debug\DataBase\Database2_log.ldf
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.DAO\bin\Debug\DataBase\Database1.mdf
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.DAO\bin\Debug\DataBase\Database1_log.ldf
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.DAO\bin\Debug\Loja.DAO.dll.config
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.DAO\bin\Debug\Loja.DAO.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.DAO\bin\Debug\Loja.DAO.pdb
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.DAO\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.DAO\bin\Debug\Loja.Domain.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.DAO\bin\Debug\Loja.Domain.pdb
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.DAO\bin\Debug\Loja.Domain.dll.config
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.DAO\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.DAO\obj\Debug\Loja.DAO.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.DAO\obj\Debug\Loja.DAO.dll
+C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.DAO\obj\Debug\Loja.DAO.pdb
