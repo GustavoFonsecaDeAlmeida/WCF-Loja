@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.4
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service.Host", "Service.Host\Service.Host.csproj", "{6B93AEB0-EEAA-4205-9A2E-B9C53058000B}"
 EndProject
@@ -13,15 +13,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja.DAO", "Loja.DAO\Loja.D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBStarter", "DBStarter\DBStarter.csproj", "{9D17871B-2168-48AF-893D-359B253F8AD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumirWCF3", "ConsumirWCF3\ConsumirWCF3.csproj", "{C874DBF8-9058-4161-A09E-C72A292FF309}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumir", "Consumir\Consumir.csproj", "{4667D1BC-F4AD-447F-94E8-A387ED6CF033}"
 	ProjectSection(ProjectDependencies) = postProject
 		{357C95AB-D89F-4C4A-A4F6-7E078DD5FD33} = {357C95AB-D89F-4C4A-A4F6-7E078DD5FD33}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumirWCF5", "ConsumirWCF5\ConsumirWCF5.csproj", "{764E1E6B-9671-464C-A29F-61184F81AA2C}"
-	ProjectSection(ProjectDependencies) = postProject
-		{357C95AB-D89F-4C4A-A4F6-7E078DD5FD33} = {357C95AB-D89F-4C4A-A4F6-7E078DD5FD33}
-	EndProjectSection
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "Emulator", "Emulator\Emulator.ccproj", "{C51D1C5E-F125-46C4-92BB-DA1E1408F99E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFServiceWebRole1", "WCFServiceWebRole1\WCFServiceWebRole1.csproj", "{79D11827-B34B-48B8-8E1A-AC027A173D0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,14 +48,18 @@ Global
 		{9D17871B-2168-48AF-893D-359B253F8AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D17871B-2168-48AF-893D-359B253F8AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D17871B-2168-48AF-893D-359B253F8AD1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C874DBF8-9058-4161-A09E-C72A292FF309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C874DBF8-9058-4161-A09E-C72A292FF309}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C874DBF8-9058-4161-A09E-C72A292FF309}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C874DBF8-9058-4161-A09E-C72A292FF309}.Release|Any CPU.Build.0 = Release|Any CPU
-		{764E1E6B-9671-464C-A29F-61184F81AA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{764E1E6B-9671-464C-A29F-61184F81AA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{764E1E6B-9671-464C-A29F-61184F81AA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{764E1E6B-9671-464C-A29F-61184F81AA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4667D1BC-F4AD-447F-94E8-A387ED6CF033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4667D1BC-F4AD-447F-94E8-A387ED6CF033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4667D1BC-F4AD-447F-94E8-A387ED6CF033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4667D1BC-F4AD-447F-94E8-A387ED6CF033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C51D1C5E-F125-46C4-92BB-DA1E1408F99E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C51D1C5E-F125-46C4-92BB-DA1E1408F99E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C51D1C5E-F125-46C4-92BB-DA1E1408F99E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C51D1C5E-F125-46C4-92BB-DA1E1408F99E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79D11827-B34B-48B8-8E1A-AC027A173D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D11827-B34B-48B8-8E1A-AC027A173D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D11827-B34B-48B8-8E1A-AC027A173D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D11827-B34B-48B8-8E1A-AC027A173D0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

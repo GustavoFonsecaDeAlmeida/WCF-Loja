@@ -14,13 +14,13 @@ namespace GerenciamentoCompras
     public interface IPedido_V1
     {
         [OperationContract]
-        string RealizarPedido(int idProduto, int quantidade);
+        string RealizarPedido(ProdutoViewModel produto);
     }
 
     [ServiceContract(Name = "PedidoMultiplo", Namespace = ("http://localhost:60745/v2"))]
     public interface IPedido_V2
     {
         [OperationContract]
-        string RealizarPedido(List<ProdutoViewModel> Produtos);
+        string RealizarPedido(List<ProdutoViewModel> ListaProdutos);
     }
 }
