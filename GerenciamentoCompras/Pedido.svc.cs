@@ -15,11 +15,12 @@ namespace GerenciamentoCompras
     public class Pedido : IPedido_V1, IPedido_V2
     {
         private PedidoDAO dao = new PedidoDAO();
-        private Service.FilaService fila = new Service.FilaService();
+        private Service.PedidoFilaService fila = new Service.PedidoFilaService();
 
 
         public string RealizarPedido(ProdutoViewModel produto) {
 
+            Service.PedidoFilaService fila = new Service.PedidoFilaService();
 
             Produto objProduto = new Produto();
             objProduto.idProduto = produto.idProduto;
@@ -41,8 +42,8 @@ namespace GerenciamentoCompras
             if (resposta.ToString() == "True")
             {
                 fila.AdicionarPedidoAFila(objPedido.idPedido);
-                //return "Pedido Realizado com Sucesso , aguardando colobarodores para mudar status do seu pedido";
-                return fila.PegarProximoPedido();
+                return "Pedido Realizado com Sucesso , aguardando colobarodores para mudar status do seu pedido";
+                
             }
             else
             {
@@ -86,10 +87,26 @@ namespace GerenciamentoCompras
                 return "OPS.. Ocorreu algum erro.";
             }
 
+            
 
            
         }
+        public PedidoViewModel ProximoPedido() {
 
+            PedidoViewModel pedido = new PedidoViewModel();
+
+            pedido = fila.PegarProximoPedido();
+
+           
+
+
+
+
+            return pedido;
+
+
+
+        }
 
     }
 }

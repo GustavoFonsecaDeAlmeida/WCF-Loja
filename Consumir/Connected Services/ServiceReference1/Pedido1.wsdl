@@ -5,6 +5,7 @@
       <xsd:import schemaLocation="http://localhost:60745/Pedido.svc?xsd=xsd0" namespace="http://localhost:60745/v1" />
       <xsd:import schemaLocation="http://localhost:60745/Pedido.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
       <xsd:import schemaLocation="http://localhost:60745/Pedido.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/GerenciamentoCompras.Model" />
+      <xsd:import schemaLocation="http://localhost:60745/Pedido.svc?xsd=xsd3" namespace="http://schemas.datacontract.org/2004/07/Loja.Domain" />
     </xsd:schema>
   </wsdl:types>
   <wsdl:message name="PedidoUnico_RealizarPedido_InputMessage">
@@ -13,10 +14,20 @@
   <wsdl:message name="PedidoUnico_RealizarPedido_OutputMessage">
     <wsdl:part name="parameters" element="tns:RealizarPedidoResponse" />
   </wsdl:message>
+  <wsdl:message name="PedidoUnico_ProximoPedido_InputMessage">
+    <wsdl:part name="parameters" element="tns:ProximoPedido" />
+  </wsdl:message>
+  <wsdl:message name="PedidoUnico_ProximoPedido_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ProximoPedidoResponse" />
+  </wsdl:message>
   <wsdl:portType name="PedidoUnico">
     <wsdl:operation name="RealizarPedido">
       <wsdl:input wsaw:Action="http://localhost:60745/v1/PedidoUnico/RealizarPedido" message="tns:PedidoUnico_RealizarPedido_InputMessage" />
       <wsdl:output wsaw:Action="http://localhost:60745/v1/PedidoUnico/RealizarPedidoResponse" message="tns:PedidoUnico_RealizarPedido_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ProximoPedido">
+      <wsdl:input wsaw:Action="http://localhost:60745/v1/PedidoUnico/ProximoPedido" message="tns:PedidoUnico_ProximoPedido_InputMessage" />
+      <wsdl:output wsaw:Action="http://localhost:60745/v1/PedidoUnico/ProximoPedidoResponse" message="tns:PedidoUnico_ProximoPedido_OutputMessage" />
     </wsdl:operation>
   </wsdl:portType>
 </wsdl:definitions>

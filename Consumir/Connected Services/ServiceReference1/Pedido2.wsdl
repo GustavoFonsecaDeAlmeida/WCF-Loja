@@ -14,11 +14,29 @@
         <soap:body use="literal" />
       </wsdl:output>
     </wsdl:operation>
+    <wsdl:operation name="ProximoPedido">
+      <soap:operation soapAction="http://localhost:60745/v1/PedidoUnico/ProximoPedido" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
   </wsdl:binding>
   <wsdl:binding name="BasicHttpBinding_PedidoMultiplo" type="i1:PedidoMultiplo">
     <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
     <wsdl:operation name="RealizarPedido">
       <soap:operation soapAction="http://localhost:60745/v2/PedidoMultiplo/RealizarPedido" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ProximoPedido">
+      <soap:operation soapAction="http://localhost:60745/v2/PedidoMultiplo/ProximoPedido" style="document" />
       <wsdl:input>
         <soap:body use="literal" />
       </wsdl:input>

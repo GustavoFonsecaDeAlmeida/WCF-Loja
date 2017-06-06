@@ -12,12 +12,18 @@ namespace Consumir
         static void Main(string[] args)
         {
             var cliente = new ServiceReference1.PedidoUnicoClient();
-            ProdutoViewModel produto = new ProdutoViewModel();
-            produto.idProduto = 1;
-            produto.Quantidade = 10;
-            var resposta = cliente.RealizarPedido(produto);
+            //ProdutoViewModel produto = new ProdutoViewModel();
+            //produto.idProduto = 1;
+            //produto.NomeProduto = "Coca-Cola";
+            //produto.Quantidade = 10;
+            //var resposta = cliente.RealizarPedido(produto);
 
-            Console.WriteLine(resposta);
+            //Console.WriteLine(resposta);
+            //Console.ReadKey();
+
+            var respostaCliente = cliente.ProximoPedido();
+
+            Console.WriteLine(respostaCliente);
             Console.ReadKey();
 
         }

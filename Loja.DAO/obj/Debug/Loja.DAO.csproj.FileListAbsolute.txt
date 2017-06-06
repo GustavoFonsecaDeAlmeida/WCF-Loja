@@ -45,3 +45,20 @@ C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Loja.DAO\obj\Debug\Loja.DAO.
 C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Loja.DAO\obj\Debug\Loja.DAO.pdb
 C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Loja.DAO\bin\Debug\DataBase\Database2.mdf
 C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Loja.DAO\bin\Debug\DataBase\Database2_log.ldf
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\bin\Debug\DataBase\Database2.mdf
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\bin\Debug\DataBase\Database2_log.ldf
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\bin\Debug\Loja.DAO.dll.config
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\bin\Debug\Loja.DAO.dll
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\bin\Debug\Loja.DAO.pdb
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\bin\Debug\EntityFramework.dll
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\bin\Debug\Loja.Domain.dll
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\bin\Debug\Loja.Domain.pdb
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\bin\Debug\Loja.Domain.dll.config
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\bin\Debug\EntityFramework.xml
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\obj\Debug\Loja.DAO.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\obj\Debug\Loja.DAO.dll
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\obj\Debug\Loja.DAO.pdb
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\bin\Debug\DataBase\BancoAula.mdf
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\bin\Debug\DataBase\BancoAula_log.ldf

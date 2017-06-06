@@ -54,6 +54,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Connected Services\ServiceReference1\Consumir.ServiceReference1.PedidoViewModel.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
     <None Include="Connected Services\ServiceReference1\Pedido.wsdl" />
     <None Include="Connected Services\ServiceReference1\Pedido.xsd">
       <SubType>Designer</SubType>
@@ -67,6 +70,9 @@
       <SubType>Designer</SubType>
     </None>
     <None Include="Connected Services\ServiceReference1\Pedido3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ServiceReference1\Pedido4.xsd">
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>

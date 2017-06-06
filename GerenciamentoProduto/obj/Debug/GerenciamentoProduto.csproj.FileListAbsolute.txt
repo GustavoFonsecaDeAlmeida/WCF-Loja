@@ -1,0 +1,6 @@
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\GerenciamentoProduto\bin\GerenciamentoProduto.dll.config
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\GerenciamentoProduto\bin\GerenciamentoProduto.dll
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\GerenciamentoProduto\bin\GerenciamentoProduto.pdb
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\GerenciamentoProduto\obj\Debug\GerenciamentoProduto.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\GerenciamentoProduto\obj\Debug\GerenciamentoProduto.dll
+C:\Users\Administrador\Pictures\Azure\WCF-Loja\GerenciamentoProduto\obj\Debug\GerenciamentoProduto.pdb

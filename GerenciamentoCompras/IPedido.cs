@@ -15,6 +15,10 @@ namespace GerenciamentoCompras
     {
         [OperationContract]
         string RealizarPedido(ProdutoViewModel produto);
+
+        [OperationContract]
+        PedidoViewModel ProximoPedido();
+
     }
 
     [ServiceContract(Name = "PedidoMultiplo", Namespace = ("http://localhost:60745/v2"))]
@@ -22,5 +26,8 @@ namespace GerenciamentoCompras
     {
         [OperationContract]
         string RealizarPedido(List<ProdutoViewModel> ListaProdutos);
+
+        [OperationContract]
+        PedidoViewModel ProximoPedido();
     }
 }
