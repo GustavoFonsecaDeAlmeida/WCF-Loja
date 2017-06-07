@@ -39,6 +39,12 @@ namespace Loja.DAO
 
             objProduto.NomeProduto = produto.NomeProduto;
 
+            objProduto.Categoria = produto.Categoria;
+
+            objProduto.preco = produto.preco;
+
+            objProduto.Imagem = produto.Imagem;
+
             objProduto.Quantidade = produto.Quantidade;
 
             db.SaveChanges();
@@ -59,7 +65,8 @@ namespace Loja.DAO
 
         public IQueryable<Produto> Produtos()
         {
-            return db.Produtos;
+            
+            return db.Produtos.Where(x => x.pedido == null);
         }
 
 

@@ -97,6 +97,13 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>BancoAula.mdf</DependentUpon>
     </Content>
+    <Content Include="DataBase\BancoCasa.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="DataBase\BancoCasa_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>BancoCasa.mdf</DependentUpon>
+    </Content>
     <Content Include="DataBase\Database2.mdf">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

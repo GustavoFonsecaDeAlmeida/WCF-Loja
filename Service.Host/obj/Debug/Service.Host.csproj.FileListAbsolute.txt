@@ -53,8 +53,6 @@ C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Service.Host\bin\Debug\Loja.
 C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Service.Host\obj\Debug\Service.Host.csprojResolveAssemblyReference.cache
 C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Service.Host\obj\Debug\Service.Host.exe
 C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Service.Host\obj\Debug\Service.Host.pdb
-C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Service.Host\bin\Debug\DataBase\Database2.mdf
-C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Service.Host\bin\Debug\DataBase\Database2_log.ldf
 C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Service.Host\bin\Debug\Microsoft.WindowsAzure.Storage.dll
 C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Service.Host\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
 C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Service.Host\bin\Debug\Microsoft.Data.Services.Client.dll

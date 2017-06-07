@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.4
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service.Host", "Service.Host\Service.Host.csproj", "{6B93AEB0-EEAA-4205-9A2E-B9C53058000B}"
 EndProject
@@ -15,6 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBStarter", "DBStarter\DBSt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumir", "Consumir\Consumir.csproj", "{4667D1BC-F4AD-447F-94E8-A387ED6CF033}"
 	ProjectSection(ProjectDependencies) = postProject
+		{4B5B094A-39C5-4ECC-9A0A-457EFC29BC20} = {4B5B094A-39C5-4ECC-9A0A-457EFC29BC20}
 		{357C95AB-D89F-4C4A-A4F6-7E078DD5FD33} = {357C95AB-D89F-4C4A-A4F6-7E078DD5FD33}
 	EndProjectSection
 EndProject
@@ -25,6 +26,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciamentoProduto", "GerenciamentoProduto\GerenciamentoProduto.csproj", "{4B5B094A-39C5-4ECC-9A0A-457EFC29BC20}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja.Web", "Loja.Web\Loja.Web.csproj", "{2B002B8C-8D80-4D9A-B099-9FE31E2F7634}"
+	ProjectSection(ProjectDependencies) = postProject
+		{4B5B094A-39C5-4ECC-9A0A-457EFC29BC20} = {4B5B094A-39C5-4ECC-9A0A-457EFC29BC20}
+		{357C95AB-D89F-4C4A-A4F6-7E078DD5FD33} = {357C95AB-D89F-4C4A-A4F6-7E078DD5FD33}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

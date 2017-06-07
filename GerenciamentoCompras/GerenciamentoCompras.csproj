@@ -106,7 +106,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Service\FilaService.cs" />
     <Compile Include="Service\PedidoFilaService.cs" />
-    <Compile Include="Service\ProdutoFilaService.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="3b2951fd-6a88-4109-bda4-c96bf9510c75" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49577/Produto.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Produto.wsdl" MetadataType="Wsdl" ID="56ade9e0-549f-4fa4-a97f-2eec64630f19" SourceId="1" SourceUrl="http://localhost:49577/Produto.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="Produto.xsd" MetadataType="Schema" ID="7e3c2c2d-a0b8-493d-80df-3ee0a814efee" SourceId="1" SourceUrl="http://localhost:49577/Produto.svc?xsd=xsd1" />
+    <MetadataFile FileName="Produto.disco" MetadataType="Disco" ID="467db84b-e607-4ab8-9981-13deb1c1ae08" SourceId="1" SourceUrl="http://localhost:49577/Produto.svc?disco" />
+    <MetadataFile FileName="Produto1.xsd" MetadataType="Schema" ID="c560034c-adf8-4d48-a2e0-1ae0317d29c1" SourceId="1" SourceUrl="http://localhost:49577/Produto.svc?xsd=xsd0" />
+    <MetadataFile FileName="Produto2.xsd" MetadataType="Schema" ID="75a951e1-64c0-4c06-9c8d-7bf630e44029" SourceId="1" SourceUrl="http://localhost:49577/Produto.svc?xsd=xsd3" />
+    <MetadataFile FileName="Produto1.wsdl" MetadataType="Wsdl" ID="992f1e13-5e86-4b22-b818-5a178f0d3296" SourceId="1" SourceUrl="http://localhost:49577/Produto.svc?wsdl" />
+    <MetadataFile FileName="Produto3.xsd" MetadataType="Schema" ID="a2f86c0d-6ed7-442e-ae37-8f51969a5cf0" SourceId="1" SourceUrl="http://localhost:49577/Produto.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

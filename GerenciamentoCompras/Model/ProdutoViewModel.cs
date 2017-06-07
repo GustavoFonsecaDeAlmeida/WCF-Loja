@@ -15,5 +15,11 @@ namespace GerenciamentoCompras.Model
         public string NomeProduto { get; set; }
         [DataMember]
         public int Quantidade { get; set; }
+        [DataMember]
+        public string Categoria { get; set; }
+        [DataMember]
+        public string preco { get; set; }
+        [DataMember]
+        public string imagem { get; set; }
     }
 }

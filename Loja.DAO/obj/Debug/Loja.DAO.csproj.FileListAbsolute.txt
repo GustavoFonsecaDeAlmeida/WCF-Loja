@@ -62,3 +62,7 @@ C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\obj\Debug\Loja.DAO.dll
 C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\obj\Debug\Loja.DAO.pdb
 C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\bin\Debug\DataBase\BancoAula.mdf
 C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.DAO\bin\Debug\DataBase\BancoAula_log.ldf
+C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Loja.DAO\bin\Debug\DataBase\BancoAula.mdf
+C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Loja.DAO\bin\Debug\DataBase\BancoAula_log.ldf
+C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Loja.DAO\bin\Debug\DataBase\BancoCasa.mdf
+C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Loja.DAO\bin\Debug\DataBase\BancoCasa_log.ldf

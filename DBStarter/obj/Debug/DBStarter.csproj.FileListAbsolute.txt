@@ -72,3 +72,7 @@ C:\Users\Administrador\Pictures\Azure\WCF-Loja\DBStarter\obj\Debug\DBStarter.exe
 C:\Users\Administrador\Pictures\Azure\WCF-Loja\DBStarter\obj\Debug\DBStarter.pdb
 C:\Users\Administrador\Pictures\Azure\WCF-Loja\DBStarter\bin\Debug\DataBase\BancoAula.mdf
 C:\Users\Administrador\Pictures\Azure\WCF-Loja\DBStarter\bin\Debug\DataBase\BancoAula_log.ldf
+C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\DBStarter\bin\Debug\DataBase\BancoAula.mdf
+C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\DBStarter\bin\Debug\DataBase\BancoAula_log.ldf
+C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\DBStarter\bin\Debug\DataBase\BancoCasa.mdf
+C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\DBStarter\bin\Debug\DataBase\BancoCasa_log.ldf

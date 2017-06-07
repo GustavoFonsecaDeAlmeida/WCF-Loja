@@ -33,7 +33,6 @@ C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Emulator\obj\Debug\WCFServic
 C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Emulator\obj\Debug\WCFServiceWebRole1\bin\Microsoft.Data.Services.Client.dll
 C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Emulator\obj\Debug\WCFServiceWebRole1\bin\Microsoft.Data.Services.Client.xml
 C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Emulator\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
-C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Emulator\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
 C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Emulator\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Storage.dll
 C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Emulator\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Storage.pdb
 C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Emulator\obj\Debug\WCFServiceWebRole1\bin\Microsoft.WindowsAzure.Storage.xml

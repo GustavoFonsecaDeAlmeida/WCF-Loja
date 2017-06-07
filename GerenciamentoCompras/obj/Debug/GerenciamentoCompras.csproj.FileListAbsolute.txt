@@ -180,3 +180,7 @@ C:\Users\Administrador\Pictures\Azure\WCF-Loja\GerenciamentoCompras\obj\Debug\Ge
 C:\Users\Administrador\Pictures\Azure\WCF-Loja\GerenciamentoCompras\obj\Debug\GerenciamentoCompras.pdb
 C:\Users\Administrador\Pictures\Azure\WCF-Loja\GerenciamentoCompras\bin\DataBase\BancoAula.mdf
 C:\Users\Administrador\Pictures\Azure\WCF-Loja\GerenciamentoCompras\bin\DataBase\BancoAula_log.ldf
+C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\GerenciamentoCompras\bin\DataBase\BancoAula.mdf
+C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\GerenciamentoCompras\bin\DataBase\BancoAula_log.ldf
+C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\GerenciamentoCompras\bin\DataBase\BancoCasa.mdf
+C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\GerenciamentoCompras\bin\DataBase\BancoCasa_log.ldf

@@ -97,9 +97,6 @@ namespace GerenciamentoCompras
 
             pedido = fila.PegarProximoPedido();
 
-           
-
-
 
 
             return pedido;

@@ -52,6 +52,8 @@
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
@@ -188,9 +190,20 @@
     <Compile Include="App_Start\IdentityConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="Connected Services\PedidoReferencia\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\ProdutoReferencia\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Controllers\ProdutoController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -201,6 +214,30 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\UserDB.mdf" />
+    <Content Include="App_Data\UserDB_log.ldf">
+      <DependentUpon>UserDB.mdf</DependentUpon>
+    </Content>
+    <Content Include="Connected Services\PedidoReferencia\Loja.Web.PedidoReferencia.PedidoViewModel.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <None Include="Connected Services\PedidoReferencia\Pedido.disco" />
+    <None Include="Connected Services\PedidoReferencia\configuration91.svcinfo" />
+    <None Include="Connected Services\PedidoReferencia\configuration.svcinfo" />
+    <None Include="Connected Services\PedidoReferencia\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="Connected Services\ProdutoReferencia\Loja.Web.ProdutoReferencia.Produto.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Content>
+    <None Include="Connected Services\ProdutoReferencia\Produto.disco" />
+    <None Include="Connected Services\ProdutoReferencia\configuration91.svcinfo" />
+    <None Include="Connected Services\ProdutoReferencia\configuration.svcinfo" />
+    <None Include="Connected Services\ProdutoReferencia\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="favicon.ico" />
@@ -212,6 +249,38 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="Connected Services\PedidoReferencia\Pedido.wsdl" />
+    <None Include="Connected Services\PedidoReferencia\Pedido.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\PedidoReferencia\Pedido1.wsdl" />
+    <None Include="Connected Services\PedidoReferencia\Pedido1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\PedidoReferencia\Pedido2.wsdl" />
+    <None Include="Connected Services\PedidoReferencia\Pedido2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\PedidoReferencia\Pedido3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\PedidoReferencia\Pedido4.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ProdutoReferencia\Produto.wsdl" />
+    <None Include="Connected Services\ProdutoReferencia\Produto.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ProdutoReferencia\Produto1.wsdl" />
+    <None Include="Connected Services\ProdutoReferencia\Produto1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ProdutoReferencia\Produto2.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connected Services\ProdutoReferencia\Produto3.xsd">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -257,10 +326,9 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
+    <Content Include="Views\Produto\Index.cshtml" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="App_Data\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
   </ItemGroup>
@@ -275,6 +343,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\PedidoReferencia\" />
+    <WCFMetadataStorage Include="Connected Services\ProdutoReferencia\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
