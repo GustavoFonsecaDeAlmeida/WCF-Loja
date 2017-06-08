@@ -1,8 +1,3 @@
-C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Consumir\bin\Debug\Consumir.exe.config
-C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Consumir\bin\Debug\Consumir.exe
-C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Consumir\bin\Debug\Consumir.pdb
-C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Consumir\obj\Debug\Consumir.exe
-C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Consumir\obj\Debug\Consumir.pdb
 C:\Users\Administrador\Pictures\Azure\WCF-Loja\Consumir\bin\Debug\Consumir.exe.config
 C:\Users\Administrador\Pictures\Azure\WCF-Loja\Consumir\bin\Debug\Consumir.exe
 C:\Users\Administrador\Pictures\Azure\WCF-Loja\Consumir\bin\Debug\Consumir.pdb

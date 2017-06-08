@@ -17,15 +17,6 @@ C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.Domain\bin\Debug\
 C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.Domain\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.Domain\obj\Debug\Loja.Domain.dll
 C:\Users\Administrador\Desktop\Nova pasta\WCF-Loja-master\Loja.Domain\obj\Debug\Loja.Domain.pdb
-C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Loja.Domain\bin\Debug\Loja.Domain.dll.config
-C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Loja.Domain\bin\Debug\Loja.Domain.dll
-C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Loja.Domain\bin\Debug\Loja.Domain.pdb
-C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Loja.Domain\bin\Debug\EntityFramework.dll
-C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Loja.Domain\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Loja.Domain\bin\Debug\EntityFramework.xml
-C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Loja.Domain\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Loja.Domain\obj\Debug\Loja.Domain.dll
-C:\Users\Gustavo Fonseca\Pictures\Projetos\WCF-Loja\Loja.Domain\obj\Debug\Loja.Domain.pdb
 C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.Domain\bin\Debug\Loja.Domain.dll.config
 C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.Domain\bin\Debug\Loja.Domain.dll
 C:\Users\Administrador\Pictures\Azure\WCF-Loja\Loja.Domain\bin\Debug\Loja.Domain.pdb

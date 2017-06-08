@@ -14,10 +14,12 @@ namespace GerenciamentoCompras
     public interface IPedido_V1
     {
         [OperationContract]
-        string RealizarPedido(ProdutoViewModel produto);
+        string RealizarPedido(Loja.Domain.Produto produto);
 
         [OperationContract]
         PedidoViewModel ProximoPedido();
+
+        
 
     }
 
@@ -25,7 +27,7 @@ namespace GerenciamentoCompras
     public interface IPedido_V2
     {
         [OperationContract]
-        string RealizarPedido(List<ProdutoViewModel> ListaProdutos);
+        string RealizarPedido(List<Loja.Domain.Produto> ListaProdutos);
 
         [OperationContract]
         PedidoViewModel ProximoPedido();

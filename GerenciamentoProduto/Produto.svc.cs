@@ -1,6 +1,7 @@
 ﻿using GerenciamentoProduto.Model;
 using GerenciamentoProduto.Service;
 using Loja.DAO;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -32,7 +33,7 @@ namespace GerenciamentoProduto
 
         }
 
-        public List<Loja.Domain.Produto> ListarTodosProdutos() {
+        public string ListarTodosProdutos() {
 
             var retornobd = db.Produtos();
 
@@ -40,23 +41,47 @@ namespace GerenciamentoProduto
 
             foreach (var item in retornobd)
             {
-               
+
                 produtos.Add(item);
 
             }
 
-            return produtos;
+            var novoProdutos = JsonConvert.SerializeObject(produtos);
 
-      
-            
+            return novoProdutos;
+        }
 
 
-           
+          public bool CadastroProduto(Loja.Domain.Produto produto) {
 
-         
+            db.AdicionarProduto(produto);
+            return true;
 
+            }
+
+        public bool EditarProduto(Loja.Domain.Produto produto)
+        {
+
+            db.EditarProduto(produto);
+            return true;
 
         }
+
+        public bool RemocaoProduto(int idProduto) {
+
+            db.RemoverProduto(idProduto);
+            return true;
+        }
+
+
+
+
+
+
+
+
+
+    }
 
 
        

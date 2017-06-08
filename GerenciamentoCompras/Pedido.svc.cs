@@ -18,7 +18,7 @@ namespace GerenciamentoCompras
         private Service.PedidoFilaService fila = new Service.PedidoFilaService();
 
 
-        public string RealizarPedido(ProdutoViewModel produto) {
+        public string RealizarPedido(Loja.Domain.Produto produto) {
 
             Service.PedidoFilaService fila = new Service.PedidoFilaService();
 
@@ -55,7 +55,7 @@ namespace GerenciamentoCompras
 
 
 
-        public string RealizarPedido(List<ProdutoViewModel> ListaProdutos)
+        public string RealizarPedido(List<Loja.Domain.Produto> ListaProdutos)
         {
             List<Produto> ProdutosLista = new List<Produto>();
 

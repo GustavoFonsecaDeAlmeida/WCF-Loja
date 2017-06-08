@@ -21,7 +21,16 @@ namespace GerenciamentoProduto
         bool ConsumirFila();
 
         [OperationContract]
-        List<Loja.Domain.Produto> ListarTodosProdutos();
+        string ListarTodosProdutos();
+
+        [OperationContract]
+        bool CadastroProduto(Loja.Domain.Produto produto);
+
+        [OperationContract]
+        bool EditarProduto(Loja.Domain.Produto produto);
+
+        [OperationContract]
+        bool RemocaoProduto(int idProduto);
 
 
 
