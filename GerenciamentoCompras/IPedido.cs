@@ -19,7 +19,17 @@ namespace GerenciamentoCompras
         [OperationContract]
         PedidoViewModel ProximoPedido();
 
-        
+        [OperationContract]
+        bool EmpacotarPedido(int idPedido);
+
+        [OperationContract]
+        bool EnviarPedido(int idPedido);
+
+
+
+
+
+
 
     }
 
@@ -31,5 +41,12 @@ namespace GerenciamentoCompras
 
         [OperationContract]
         PedidoViewModel ProximoPedido();
+
+
+        [OperationContract]
+        bool EmpacotarPedido(int idPedido);
+
+        [OperationContract]
+        bool EnviarPedido(int idPedido);
     }
 }

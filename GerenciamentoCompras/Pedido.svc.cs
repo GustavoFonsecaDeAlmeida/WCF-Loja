@@ -105,5 +105,26 @@ namespace GerenciamentoCompras
 
         }
 
+        public bool EmpacotarPedido(int idPedido) {
+
+           var pedido = dao.SelecionarPedido(idPedido);
+
+            pedido.PedidoEmpacotado = true;
+
+            dao.EditarPedido(pedido);
+            
+            return true;
+        }
+
+        public bool EnviarPedido(int idPedido) {
+
+            var pedido = dao.SelecionarPedido(idPedido);
+
+            pedido.PedidoEnviado = true;
+
+            dao.EditarPedido(pedido);
+            return true;
+        }
+
     }
 }
